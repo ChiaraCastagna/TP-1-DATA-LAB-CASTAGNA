@@ -1,0 +1,47 @@
+body {
+    background-color: #decadc;
+    color: black;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    text-decoration: none;
+}
+
+h1 {
+    text-transform:capitalize;
+    color:#211f30;
+    text-decoration: overline;
+}
+
+h2 {
+    color: #ae8cab;
+    
+}
+
+h3 {
+    text-transform: lowercase;
+    color: #6c6b72;
+
+}
+
+h4 {
+    color: #211f30;
+}
+
+a {
+    color: #8d4983;
+    text-decoration: none;
+
+}
+
+img {
+    width: 50% ;
+    border-radius: 1000px;
+    display: block;
+    margin: auto;
+}
